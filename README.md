@@ -6,6 +6,8 @@
    ### 🛠️ Projects
 - 📊 **HR Project** – A comprehensive HR data analysis that digs into performance, retention, and tenure trends , Built using Excel , Tableau and Power BI
   🔗 [View Project](https://github.com/shimo77/Hr-Project)
+
+  
 📊 **E-Commerce Project** – End To End *E-Commerce data analysis that digs into Sales , Customers, and Products  trends , Built using Sql , Python and Power BI
   [View Project](https://github.com/shimo77/E-Commerce-Analytics-Project)
 
