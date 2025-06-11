@@ -8,12 +8,12 @@
 - 🌱 Skilled in Python ,MS SQL Server,Power BI , Tableau , Excel for data cleaning, analysis, and visualization.
 - 💞️ I’m looking to collaborate on real-world data projects, especially anything involving storytelling with dashboards or cleaning messy datasets
 - 📫 How to reach me : engshimo77@gmail.com | www.linkedin.com/in/shaimaa-m-h
+- 
    ### 🛠️ Projects
 - 📊 **HR Project** – A comprehensive HR data analysis that digs into performance, retention, and tenure trends , Built using Excel , Tableau and Power BI
   🔗 [View Project](https://github.com/shimo77/Hr-Project)
 
-  
- -📊 **E-Commerce Project** – End To End *E-Commerce data analysis that digs into Sales , Customers, and Products  trends , Built using Sql , Python and Power BI
+   -📊 **E-Commerce Project** – End To End E-Commerce data analysis that digs into Sales , Customers, and Products  trends , Built using Sql , Python and Power BI
   [View Project](https://github.com/shimo77/E-Commerce-Analytics-Project)
 
 
