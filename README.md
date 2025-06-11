@@ -3,8 +3,9 @@
 ![Shaimaa Hassan Banner](https://github.com/shimo77/shimo77/blob/main/Github.png)
 
 - 👋 Hi, I’m Shaimaa Muhammad Hassan
+- 🎓 Bachelor’s Degree in Computer Science – Information Systems Department, Cairo University.
 - 👀 I’m interested in Data Analytics & Insights: Exploring how data can tell a story and help solve complex business challenges.
-- 🌱 I’m currently learning Python MS SQL Server,Power BI , Tableau
+- 🌱 Skilled in Python ,MS SQL Server,Power BI , Tableau , Excel for data cleaning, analysis, and visualization.
 - 💞️ I’m looking to collaborate on real-world data projects, especially anything involving storytelling with dashboards or cleaning messy datasets
 - 📫 How to reach me : engshimo77@gmail.com | www.linkedin.com/in/shaimaa-m-h
    ### 🛠️ Projects
