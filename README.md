@@ -1,3 +1,6 @@
+🙋🏻‍♀️ Introducing Myself
+![Shaimaa Hassan Banner](https://github.com/shimo77/shimo77/blob/main/GitHub.png)
+
 - 👋 Hi, I’m Shaimaa Muhammad Hassan
 - 👀 I’m interested in Data Analytics & Insights: Exploring how data can tell a story and help solve complex business challenges.
 - 🌱 I’m currently learning Python MS SQL Server,Power BI , Tableau
