@@ -13,7 +13,7 @@
   🔗 [View Project](https://github.com/shimo77/Hr-Project)
 
   
-📊 **E-Commerce Project** – End To End *E-Commerce data analysis that digs into Sales , Customers, and Products  trends , Built using Sql , Python and Power BI
+ -📊 **E-Commerce Project** – End To End *E-Commerce data analysis that digs into Sales , Customers, and Products  trends , Built using Sql , Python and Power BI
   [View Project](https://github.com/shimo77/E-Commerce-Analytics-Project)
 
 
