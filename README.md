@@ -1,6 +1,6 @@
 🙋🏻‍♀️ Introducing Myself
 
-![Shaimaa Hassan Banner](https://github.com/shimo77/shimo77/blob/main/Github.png)
+![Shaimaa Hassan Banner](https://github.com/shimo77/shimo77/blob/main/Data%20Analyst.png)
 
 - 👋 Hi, I’m Shaimaa Muhammad Hassan
 - 🎓 Bachelor’s Degree in Computer Science – Information Systems Department, Cairo University.
